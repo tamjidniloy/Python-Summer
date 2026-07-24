@@ -9,8 +9,6 @@ MoneyWise Tracker is a menu-driven Python project for recording personal expense
 - `student2/expense_manager.py` - expense collection, JSON save/load, search/update/delete, and NumPy analysis
 - `student3/interface.py` - menu screens, user input, validation messages, and output display
 - `expenses.json` - sample saved data with 10 expense records
-- `requirements.txt` - required library list
-- `reports/MoneyWise_Tracker_Report.docx` - project report
 
 ## Setup
 
